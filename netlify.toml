@@ -69,11 +69,6 @@
   status = 200
 
 [[redirects]]
-  from = "/agregarcita"
-  to = "/AgregarCita"
-  status = 200
-
-[[redirects]]
   from = "/principal"
   to = "/Paginap"
   status = 200
@@ -111,4 +106,9 @@
 [[redirects]]
   from = "/tintura"
   to = "/Tinturap"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/"
   status = 200
