@@ -1,131 +1,131 @@
 [[redirects]]
-  from = "/home"
-  to = "/Home"
+  to = "/home"
+  from = "/Home"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/"
-  to = "/Nosotros"
+  to = "/"
+  from = "/Nosotros"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/nosotros"
-  to = "/Nosotrosp"
+  to = "/nosotros"
+  from = "/Nosotrosp"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/Header"
-  to = "/HeaderComponents"
+  to = "/Header"
+  from = "/HeaderComponents"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/Dashboard"
   to = "/Dashboard"
+  from = "/Dashboard"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/AgregarUsuario"
   to = "/AgregarUsuario"
+  from = "/AgregarUsuario"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/listausuario"
-  to = "/ListUsuario"
+  to = "/listausuario"
+  from = "/ListUsuario"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/login"
-  to = "/LoginForm"
+  to = "/login"
+  from = "/LoginForm"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/registro"
-  to = "/RegistrationForm"
+  to = "/registro"
+  from = "/RegistrationForm"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/listacitas"
-  to = "/ListCitas"
+  to = "/listacitas"
+  from = "/ListCitas"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/agregarcita"
-  to = "/AgregarCita"
+  to = "/agregarcita"
+  from = "/AgregarCita"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/footer"
-  to = "/FooterComponent"
+  to = "/footer"
+  from = "/FooterComponent"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/nosotros"
-  to = "/Nosotros"
+  to = "/nosotros"
+  from = "/Nosotros"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/agregarcita"
-  to = "/AgregarCita"
+  to = "/agregarcita"
+  from = "/AgregarCita"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/principal"
-  to = "/Paginap"
+  to = "/principal"
+  from = "/Paginap"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/header2"
-  to = "/HeaderPrincipalComponent"
+  to = "/header2"
+  from = "/HeaderPrincipalComponent"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/catalogo"
-  to = "/CatalogoServicios"
+  to = "/catalogo"
+  from = "/CatalogoServicios"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/servicio"
-  to = "/Servicio"
+  to = "/servicio"
+  from = "/Servicio"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/servicio/:id"
-  to = "/ServicioDetalle"
+  to = "/servicio/:id"
+  from = "/ServicioDetalle"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/corte"
-  to = "/Cortepeloi"
+  to = "/corte"
+  from = "/Cortepeloi"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/manicura"
-  to = "/UAs"
+  to = "/manicura"
+  from = "/UAs"
   status = 301
   force = false
 
 [[redirects]]
-  from = "/tintura"
-  to = "/Tinturap"
+  to = "/tintura"
+  from = "/Tinturap"
   status = 301
   force = false
