@@ -1,0 +1,29 @@
+/* Nosotros.css */
+.nosotros-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 80%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.section h2 {
+  color: #333;
+}
+
+.section h3 {
+  color: #666;
+}
+
+.section p {
+  color: #999;
+}

@@ -1,0 +1,28 @@
+.catalogo-servicios {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .servicio {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .servicio img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .servicio h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .servicio p {
+    font-size: 1rem;
+    color: #666;
+  }
+  

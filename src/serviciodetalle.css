@@ -1,0 +1,36 @@
+.servicio-detalle {
+    display: flex;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .imagen-servicio {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .imagen-servicio img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .detalles-servicio {
+    flex: 2;
+  }
+  
+  .botones {
+    margin-top: 20px;
+  }
+  
+  .botones button {
+    margin-right: 10px;
+  }
+  
+  .botones a {
+    text-decoration: none;
+    color: #333;
+    margin-right: 10px;
+  }
+  
