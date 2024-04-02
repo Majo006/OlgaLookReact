@@ -1,131 +1,114 @@
+# Archivo netlify.toml para redireccionamientos personalizados
+[build]
+  command = "npm run build"
+  publish = "build/"
+  
 [[redirects]]
+  from = "/home"
   to = "/home"
-  from = "/Home"
-  status = 301
-  force = false
+  status = 200
 
 [[redirects]]
-  to = "/"
-  from = "/Nosotros"
-  status = 301
-  force = false
+  from = "/"
+  to = "/Nosotros"
+  status = 200
 
 [[redirects]]
-  to = "/nosotros"
-  from = "/Nosotrosp"
-  status = 301
-  force = false
+  from = "/nosotros"
+  to = "/Nosotrosp"
+  status = 200
 
 [[redirects]]
-  to = "/Header"
-  from = "/HeaderComponents"
-  status = 301
-  force = false
+  from = "/Header"
+  to = "/HeaderComponents"
+  status = 200
 
 [[redirects]]
-  to = "/Dashboard"
   from = "/Dashboard"
-  status = 301
-  force = false
+  to = "/Dashboard"
+  status = 200
 
 [[redirects]]
-  to = "/AgregarUsuario"
   from = "/AgregarUsuario"
-  status = 301
-  force = false
+  to = "/AgregarUsuario"
+  status = 200
 
 [[redirects]]
-  to = "/listausuario"
-  from = "/ListUsuario"
-  status = 301
-  force = false
+  from = "/listausuario"
+  to = "/ListUsuario"
+  status = 200
 
 [[redirects]]
-  to = "/login"
-  from = "/LoginForm"
-  status = 301
-  force = false
+  from = "/login"
+  to = "/LoginForm"
+  status = 200
 
 [[redirects]]
-  to = "/registro"
-  from = "/RegistrationForm"
-  status = 301
-  force = false
+  from = "/registro"
+  to = "/RegistrationForm"
+  status = 200
 
 [[redirects]]
-  to = "/listacitas"
-  from = "/ListCitas"
-  status = 301
-  force = false
+  from = "/listacitas"
+  to = "/ListCitas"
+  status = 200
 
 [[redirects]]
-  to = "/agregarcita"
-  from = "/AgregarCita"
-  status = 301
-  force = false
+  from = "/agregarcita"
+  to = "/AgregarCita"
+  status = 200
 
 [[redirects]]
-  to = "/footer"
-  from = "/FooterComponent"
-  status = 301
-  force = false
+  from = "/footer"
+  to = "/FooterComponent"
+  status = 200
 
 [[redirects]]
-  to = "/nosotros"
-  from = "/Nosotros"
-  status = 301
-  force = false
+  from = "/nosotros"
+  to = "/Nosotros"
+  status = 200
 
 [[redirects]]
-  to = "/agregarcita"
-  from = "/AgregarCita"
-  status = 301
-  force = false
+  from = "/agregarcita"
+  to = "/AgregarCita"
+  status = 200
 
 [[redirects]]
-  to = "/principal"
-  from = "/Paginap"
-  status = 301
-  force = false
+  from = "/principal"
+  to = "/Paginap"
+  status = 200
 
 [[redirects]]
-  to = "/header2"
-  from = "/HeaderPrincipalComponent"
-  status = 301
-  force = false
+  from = "/header2"
+  to = "/HeaderPrincipalComponent"
+  status = 200
 
 [[redirects]]
-  to = "/catalogo"
-  from = "/CatalogoServicios"
-  status = 301
-  force = false
+  from = "/catalogo"
+  to = "/CatalogoServicios"
+  status = 200
 
 [[redirects]]
-  to = "/servicio"
-  from = "/Servicio"
-  status = 301
-  force = false
+  from = "/servicio"
+  to = "/Servicio"
+  status = 200
 
 [[redirects]]
-  to = "/servicio/:id"
-  from = "/ServicioDetalle"
-  status = 301
-  force = false
+  from = "/servicio/:id"
+  to = "/ServicioDetalle"
+  status = 200
 
 [[redirects]]
-  to = "/corte"
-  from = "/Cortepeloi"
-  status = 301
-  force = false
+  from = "/corte"
+  to = "/Cortepeloi"
+  status = 200
 
 [[redirects]]
-  to = "/manicura"
-  from = "/UAs"
-  status = 301
-  force = false
+  from = "/manicura"
+  to = "/UAs"
+  status = 200
 
 [[redirects]]
-  to = "/tintura"
-  from = "/Tinturap"
-  status = 301
-  force = false
+  from = "/tintura"
+  to = "/Tinturap"
+  status = 200
