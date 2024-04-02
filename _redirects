@@ -1,109 +1,114 @@
 [[redirects]]
-  from = "/paginap"
-  to = "/index.html"
-  status = 200
+  from = "/pagina"
+  to = "https://baiolgalook.netlify.app/pagina"
+  status = 301
 
 [[redirects]]
   from = "/login"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/login"
+  status = 301
 
 [[redirects]]
   from = "/registro"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/registro"
+  status = 301
+
+[[redirects]]
+  from = "/dashboard"
+  to = "https://baiolgalook.netlify.app/dashboard"
+  status = 301
 
 [[redirects]]
   from = "/Header"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/Header"
+  status = 301
 
 [[redirects]]
   from = "/Dashboard"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/Dashboard"
+  status = 301
 
 [[redirects]]
   from = "/AgregarUsuario"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/AgregarUsuario"
+  status = 301
 
 [[redirects]]
   from = "/listausuario"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/listausuario"
+  status = 301
 
 [[redirects]]
   from = "/login"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/login"
+  status = 301
 
 [[redirects]]
   from = "/registro"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/registro"
+  status = 301
 
 [[redirects]]
   from = "/listacitas"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/listacitas"
+  status = 301
 
 [[redirects]]
   from = "/agregarcita"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/agregarcita"
+  status = 301
 
 [[redirects]]
   from = "/footer"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/footer"
+  status = 301
 
 [[redirects]]
   from = "/nosotros"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/nosotros"
+  status = 301
 
 [[redirects]]
   from = "/agregarcita"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/agregarcita"
+  status = 301
 
 [[redirects]]
   from = "/principal"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/principal"
+  status = 301
 
 [[redirects]]
   from = "/header2"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/header2"
+  status = 301
 
 [[redirects]]
   from = "/catalogo"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/catalogo"
+  status = 301
 
 [[redirects]]
   from = "/servicio"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/servicio"
+  status = 301
 
 [[redirects]]
   from = "/servicio/:id"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/servicio/:id"
+  status = 301
 
 [[redirects]]
   from = "/corte"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/corte"
+  status = 301
 
 [[redirects]]
   from = "/manicura"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/manicura"
+  status = 301
 
 [[redirects]]
   from = "/tintura"
-  to = "/index.html"
-  status = 200
+  to = "https://baiolgalook.netlify.app/tintura"
+  status = 301
