@@ -1,0 +1,132 @@
+[[redirects]]
+  from = "/home"
+  to = "/Home"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/"
+  to = "/Nosotros"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/nosotros"
+  to = "/Nosotrosp"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/Header"
+  to = "/HeaderComponents"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/Dashboard"
+  to = "/Dashboard"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/AgregarUsuario"
+  to = "/AgregarUsuario"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/listausuario"
+  to = "/ListUsuario"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/login"
+  to = "/LoginForm"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/registro"
+  to = "/RegistrationForm"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/listacitas"
+  to = "/ListCitas"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/agregarcita"
+  to = "/AgregarCita"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/footer"
+  to = "/FooterComponent"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/nosotros"
+  to = "/Nosotros"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/agregarcita"
+  to = "/AgregarCita"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/principal"
+  to = "/Paginap"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/header2"
+  to = "/HeaderPrincipalComponent"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/catalogo"
+  to = "/CatalogoServicios"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/servicio"
+  to = "/Servicio"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/servicio/:id"
+  to = "/ServicioDetalle"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/corte"
+  to = "/Cortepeloi"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/manicura"
+  to = "/UAs"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/tintura"
+  to = "/Tinturap"
+  status = 301
+  force = false
+
