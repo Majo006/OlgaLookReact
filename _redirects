@@ -1,114 +1,109 @@
 [[redirects]]
-  from = "/pagina"
+  from = "/paginap"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/login"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/registro"
   to = "/index.html"
-  status = 301
-
-[[redirects]]
-  from = "/dashboard"
-  to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/Header"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/Dashboard"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/AgregarUsuario"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/listausuario"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/login"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/registro"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/listacitas"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/agregarcita"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/footer"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/nosotros"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/agregarcita"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/principal"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/header2"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/catalogo"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/servicio"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/servicio/:id"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/corte"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/manicura"
   to = "/index.html"
-  status = 301
+  status = 200
 
 [[redirects]]
   from = "/tintura"
   to = "/index.html"
-  status = 301
+  status = 200
