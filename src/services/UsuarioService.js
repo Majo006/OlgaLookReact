@@ -9,13 +9,14 @@ class UsuarioService {
     }
     login(correo, contraseña) {
         return axios.post(USUARIO_BASE_REST_API_URL + LOGIN_ENDPOINT, {
-          correo: correo,
-          contraseña: contraseña
+            correo: correo,
+            contraseña: contraseña
         });
-      }
-      createUsuario(usuario){
-        return axios.post(USUARIO_BASE_REST_API_URL,usuario);
-      }
+    }
+    createUsuario(usuario){
+        return axios.post(USUARIO_BASE_REST_API_URL, usuario);
+    }
 }
 
-export default new UsuarioService();
+const usuarioService = new UsuarioService();
+export default usuarioService;

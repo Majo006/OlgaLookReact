@@ -8,8 +8,8 @@ class CitaService {
     }
     createCita(cita) {
         return axios.post(CITA_BASE_REST_API_URL, cita);
-      
-      }
+    }
 }
 
-export default new CitaService();
+const citaService = new CitaService();
+export default citaService;
