@@ -1,22 +1,22 @@
-/home              /Home
-/                  /Nosotros
-/nosotros          /Nosotrosp
-/Header            /HeaderComponents
-/Dashboard         /Dashboard
-/AgregarUsuario    /AgregarUsuario
-/listausuario      /ListUsuario
-/login             /LoginForm
-/registro          /RegistrationForm
-/listacitas        /ListCitas
-/agregarcita       /AgregarCita
-/footer            /FooterComponent
-/nosotros          /Nosotros
-/agregarcita       /AgregarCita
-/principal         /Paginap
-/header2           /HeaderPrincipalComponent
-/catalogo          /CatalogoServicios
-/servicio          /Servicio
-/servicio/:id      /ServicioDetalle
-/corte             /Cortepeloi
-/manicura          /UAs
-/tintura           /Tinturap
+/home             /home               200
+/                 /Nosotros           200
+/nosotros        /Nosotrosp          200
+/Header          /HeaderComponents   200
+/Dashboard       /Dashboard          200
+/AgregarUsuario  /AgregarUsuario     200
+/listausuario    /ListUsuario        200
+/login           /LoginForm          200
+/registro        /RegistrationForm   200
+/listacitas      /ListCitas          200
+/agregarcita     /AgregarCita        200
+/footer          /FooterComponent    200
+/nosotros        /Nosotros           200
+/agregarcita     /AgregarCita        200
+/principal       /Paginap            200
+/header2         /HeaderPrincipalComponent 200
+/catalogo        /CatalogoServicios  200
+/servicio        /Servicio           200
+/servicio/:id    /ServicioDetalle    200
+/corte           /Cortepeloi         200
+/manicura        /UAs                200
+/tintura         /Tinturap           200
