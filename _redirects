@@ -1,23 +1,114 @@
-/pagina /index.html 200
-/login /index.html 200
-/registro /index.html 200
-/dashboard /index.html 200
-/Header /index.html 200
-/Dashboard /index.html 200
-/AgregarUsuario /index.html 200
-/listausuario /index.html 200
-/login /index.html 200
-/registro /index.html 200
-/listacitas /index.html 200
-/agregarcita /index.html 200
-/footer /index.html 200
-/nosotros /index.html 200
-/agregarcita /index.html 200
-/principal /index.html 200
-/header2 /index.html 200
-/catalogo /index.html 200
-/servicio /index.html 200
-/servicio/:id /index.html 200
-/corte /index.html 200
-/manicura /index.html 200
-/tintura /index.html 200
+[[redirects]]
+  from = "/pagina"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/login"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/registro"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/dashboard"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/Header"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/Dashboard"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/AgregarUsuario"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/listausuario"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/login"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/registro"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/listacitas"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/agregarcita"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/footer"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/nosotros"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/agregarcita"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/principal"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/header2"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/catalogo"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/servicio"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/servicio/:id"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/corte"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/manicura"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/tintura"
+  to = "/index.html"
+  status = 301
