@@ -8,7 +8,7 @@ import tintura from './img/kareya-saleh-tLKOj6cNwe0-unsplash.jpg';
 const CatalogoServicios = () => {
   const servicios = [
     { id: 1, nombre: 'Corte de pelo', descripcion: 'Corte de pelo básico', precio: 12000, imagenUrl: cabello , enlace: '/corte'},
-    { id: 2, nombre: 'Coloración', descripcion: 'Coloración de cabello', precio: 120000, imagenUrl: tintura },
+    { id: 2, nombre: 'Coloración', descripcion: 'Coloración de cabello', precio: 120000, imagenUrl: tintura, enlace: '//tintura'},
     { id: 3, nombre: 'Manicura', descripcion: 'Manicura básica', precio: 20000, imagenUrl: uñas, enlace: '/manicura' },
   ];
 

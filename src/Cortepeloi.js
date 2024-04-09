@@ -31,8 +31,8 @@ const Cortepeloi = () => {
             <p>{servicio.descripcion}</p>
             <p>Precio: ${servicio.precio}</p>
             <div className="botones">
-              <button onClick={handleAgendarClick}>Agendar</button>
-              <Link to="/">Volver al catálogo</Link>
+                <Link to="/agendarcliente" className="btn-agendar" onClick={handleAgendarClick}>Agendar</Link>
+                <Link to="/principal">Volver al catálogo</Link>
             </div>
           </div>
         </div>

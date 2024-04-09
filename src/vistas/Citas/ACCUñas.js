@@ -3,7 +3,7 @@ import { Navigate, Link } from 'react-router-dom';
 import CitaService from '../../services/CitaService';
 import HeaderPrincipalComponent from '../../components/HeaderPrincipalComponent';
 
-const AgregarCitaCliente = () => {
+const ACCUAs = () => {
     const [fecha, setFecha] = useState('');
     const [hora, setHora] = useState('');
     const [cliente, setCliente] = useState('');
@@ -81,7 +81,7 @@ const AgregarCitaCliente = () => {
                                     />
                                 </div>
                                 <div className='form-group mb-2'>
-                                    <label className='form-label'>Estado</label>
+                                    <label className='form-label'>Servicio</label>
                                     <input
                                         type="text"
                                         className="form-control"
@@ -109,4 +109,6 @@ const AgregarCitaCliente = () => {
     );
 }
 
-export default AgregarCitaCliente;
+export default ACCUAs;
+
+

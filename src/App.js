@@ -20,6 +20,7 @@ import Cortepeloi from './Cortepeloi.js';
 import UAs from './uñas.js';
 import Tinturap from './tinturap.js';
 import Nosotrosp from './nosotrosp.js';
+import AgregarCitaCliente from './vistas/Citas/AgregarCitaCliente.js';
 
 function App() {
   return (
@@ -49,6 +50,7 @@ function App() {
           <Route path='/corte' element={<Cortepeloi/>}/>
           <Route path='/manicura' element={<UAs/>}/>
           <Route path='/tintura' element={<Tinturap/>}/>
+          <Route path='/agendarcliente' element={<AgregarCitaCliente/>}/>
         </Routes>
       </BrowserRouter>
       
